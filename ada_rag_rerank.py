@@ -24,7 +24,7 @@ import numpy as np
 import json
 
 # ตัวอย่างถ้าไฟล์ .npy
-kb_data = np.load('/content/cleaned_diabetes_data.npy', allow_pickle=True)
+kb_data = np.load("data for your" allow_pickle=True)
 print(f"จำนวนเอกสารใน KB: {len(kb_data)}")
 print("ตัวอย่างเอกสาร:", kb_data[0])
 
