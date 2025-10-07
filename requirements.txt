@@ -1,0 +1,15 @@
+streamlit
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langgraph
+huggingface_hub
+sentence-transformers
+tqdm
+numpy
+bs4
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+tf-keras
